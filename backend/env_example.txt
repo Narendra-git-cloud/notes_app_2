@@ -1,0 +1,2 @@
+# Copy to .env if you want to set environment variables
+PORT=3000
